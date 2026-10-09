@@ -25,7 +25,7 @@ Add your own row below. Use your real name; write your account username, not its
 
 | Name | GitHub username | Class (optional) |
 | --- | --- | --- |
-
+|贺嘉懿|hjyemss|12|
 ## Task 2 Move your project and collaborate
 
 **Move and rename your repository.** After accepting the invitation, transfer your existing project to the course organization, or create a new one. Use project- followed by a short project name, such as project-physics-map. Ask AI about transfer or renaming; contact the teacher if permissions are missing.
