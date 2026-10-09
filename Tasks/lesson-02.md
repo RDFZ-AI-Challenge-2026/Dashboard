@@ -13,18 +13,13 @@
 A pull request (PR) proposes changes to another repository and lets others review and discuss them.
 
 1. Sign in to GitHub. Open Dashboard and click Fork to copy it to your account.
-2. In your fork, open Tasks/lesson-02.md. Add one row to the registration table: your real name, GitHub username, and class (optional). Do not change other students' rows.
+2. In your fork, open [Tasks/lesson-02-roster.md](lesson-02-roster.md). Add one row to the roster: your real name, GitHub username, and class (optional). Do not change other students' rows.
 3. Click Commit changes. Then choose Contribute → Open pull request. The target is the course Dashboard's main branch; the source is the branch containing your edit.
 4. Use the title "Register: your name" and click Create pull request. Saving a change in your fork alone is not enough. For corrections, update the same source branch.
 
 Submit the PR by the deadline; it does not need to be merged yet. Check replies and accept the organization invitation when it arrives. Ask AI for help with unfamiliar clicks. Registration is public at this stage; the course plans to make Dashboard private later.
 
-### Registration table
-
-Add your own row below. Use your real name; write your account username, not its display name. Class is optional.
-
-| Name | GitHub username | Class (optional) |
-| --- | --- | --- |
+Fill in the [student roster](lesson-02-roster.md). Use your real name and account username, not its display name. Class is optional.
 
 ## Task 2 Move your project and collaborate
 
