@@ -5,3 +5,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | Name | GitHub username | Class (optional) |
 | --- | --- | --- |
 | 张紫菱 | ZZZ101-sketch | 12班 |
+| 张家铭 | LittleTiger-zjm | 高一二班 |
