@@ -7,3 +7,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 张紫菱 | ZZZ101-sketch | 12班 |
 | 张家铭 | LittleTiger-zjm | 高一二班 |
 | 贺嘉懿 | hjyemss | 12 |
+| 唐誉庭 | Tina0901450 | 12班 |
