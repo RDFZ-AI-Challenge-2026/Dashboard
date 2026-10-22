@@ -17,3 +17,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 刘楚妤 | deepcsv | 12 |
 | 刘正东 | dongdong0323 | 12班 |
 | 吴子健 | odysseus-2026 | 11班 |
+| 任韵洁 | Alicia326 | 12班 |
