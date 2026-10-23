@@ -20,3 +20,4 @@ Add one row with your real name and GitHub username, then submit a pull request.
 | 任韵洁 | Alicia326 | 12班 |
 | 杨开然 | ykralex | 12班 |
 | 倪一涵 | Hnuetronstar | 12班 |
+| 余昊洋 | yhy-202612 | 12班 |
